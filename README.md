@@ -1,4 +1,4 @@
-# Profile-page![Devendra Banner Image](banner.png)
+![Devendra Banner Image](banner.png)
 
 <br>
 
